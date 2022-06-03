@@ -1,7 +1,7 @@
 # Welcome to my Telco Customer Churn Prediction Project
 
 
-In this project I analyzed a dataset of Telco Customers which contains various informations about the customers in order to predict whether the customers will leave the service or not. The dataset used is a simplified version of this dataset found in Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+In this project I analyzed a dataset of Telco Customers which contains various informations about the customers in order to predict whether the customers will stop using the service or not. The dataset used is a simplified version of this dataset found in Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 
 The main objective of this project is to make a Machine Learning model to predict customers churn status. This project will be focused on testing a Random Forest model with Hyperparameter Tuning and Cross Validation to create a more robust model with optimized result.
